@@ -1,2 +1,2 @@
-# ProjectPortfolio
-Repository of all projects.
+# JavaProjectPortfolio
+Repository of Java projects.
